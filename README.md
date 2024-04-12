@@ -32,7 +32,7 @@ Github repository: https://github.com/robscafe433/portfolio-web-page-challenge2
 Webpage Screenshot:
 
     ```md
-    ![alt Portfolio web page:](screenshot-challenge-week-2.png)
+    ![alt Portfolio web page:](robscafe433.github.io_screenshot-challenge-week-2_.png)
     ```
 
 ## License
