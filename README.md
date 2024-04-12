@@ -26,14 +26,13 @@ I learned how implementing the use of:
 
 github pages url: https://robscafe433.github.io/portfolio-web-page-challenge2/
 
-
 Github repository: https://github.com/robscafe433/portfolio-web-page-challenge2
 
 
 Webpage Screenshot:
 
     ```md
-    ![alt Portfolio web page:](assets/images/robscafe433.github.io_horiseon-challenge_.png)
+    ![alt Portfolio web page:](screenshot-challenge-week-2.png)
     ```
 
 ## License
