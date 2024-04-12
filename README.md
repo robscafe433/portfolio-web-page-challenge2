@@ -24,9 +24,11 @@ I learned how implementing the use of:
 
 ## Usage
 
-url: 
+github pages url: https://robscafe433.github.io/portfolio-web-page-challenge2/
 
-Github repository:
+
+Github repository: https://github.com/robscafe433/portfolio-web-page-challenge2
+
 
 Webpage Screenshot:
 
